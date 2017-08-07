@@ -1,13 +1,35 @@
 <?php
-$versions = array(
-	'stableVersion'=>'2.0',
-	'stableCodeName'=>'',
-	'stableBuild'=>'20170606',
-	'stableReleaseDate=>'2017-06-06',
-	'stableDownloadLink=>'',
-	'stableDownloadLinkMirror=>'',
-	'stableChangelogLink=>'',
-	'stableGithub'=>''
+$version = array(
+	'stable'=>array(
+		'version'=>'1.6.2',
+		'codeName'=>'',
+		'build'=>'20170606',
+		'releaseDate'=>'2017-06-06',
+		'downloadLink'=>'',
+		'downloadMirrorLink'=>'',
+		'changelogLink'=>'',
+		'github'=>''
+	),
+	'beta'=>array(
+		'version'=>'2.0',
+		'codeName'=>'',
+		'build'=>'20170606',
+		'releaseDate'=>'2017-06-06',
+		'downloadLink'=>'',
+		'downloadMirrorLink'=>'',
+		'changelogLink'=>'',
+		'github'=>''
+	),
+	'nigth'=>array(
+		'version'=>'2.0',
+		'codeName'=>'',
+		'build'=>'20170606',
+		'releaseDate'=>'2017-06-06',
+		'downloadLink'=>'',
+		'downloadMirrorLink'=>'',
+		'changelogLink'=>'',
+		'github'=>''
+	)
 );
 header("Content-type:application/json");
-exit( json_encode($versions) );
+exit( json_encode($version) );
