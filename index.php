@@ -31,5 +31,7 @@ $version = array(
 		'github'=>''
 	)
 );
-header("Content-type:application/json");
-exit( json_encode($version) );
+if( !defined('BLUDIT')) {
+	header("Content-type:application/json");
+	exit( json_encode($version) );
+}
