@@ -11,6 +11,16 @@ $version = array(
 		'github'=>'https://github.com/dignajar/bludit/releases/tag/1.6.2'
 	),
 	'beta'=>array(
+		'version'=>'2.0',
+		'codeName'=>'',
+		'build'=>'20170812',
+		'releaseDate'=>'2017-08-12',
+		'downloadLink'=>'https://github.com/dignajar/bludit/archive/2.0-beta1.zip',
+		'downloadMirrorLink'=>'',
+		'changelogLink'=>'https://github.com/dignajar/bludit/releases/tag/2.0-beta1',
+		'github'=>'https://github.com/dignajar/bludit/releases/tag/2.0-beta1'
+	),
+	'nigth'=>array(
 		'version'=>'',
 		'codeName'=>'',
 		'build'=>'',
@@ -19,16 +29,6 @@ $version = array(
 		'downloadMirrorLink'=>'',
 		'changelogLink'=>'',
 		'github'=>''
-	),
-	'nigth'=>array(
-		'version'=>'2.0 Alpha 3',
-		'codeName'=>'',
-		'build'=>'',
-		'releaseDate'=>'',
-		'downloadLink'=>'',
-		'downloadMirrorLink'=>'',
-		'changelogLink'=>'https://github.com/dignajar/bludit/releases/tag/2.0-alpha3',
-		'github'=>'https://github.com/dignajar/bludit/releases/tag/2.0-alpha3'
 	)
 );
 if( !defined('BLUDIT')) {
