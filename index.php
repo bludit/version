@@ -13,12 +13,12 @@ $version = array(
 	'beta'=>array(
 		'version'=>'2.0',
 		'codeName'=>'',
-		'build'=>'20170911',
-		'releaseDate'=>'2017-09-11',
-		'downloadLink'=>'https://github.com/dignajar/bludit/archive/2.0-beta2.zip',
+		'build'=>'20170921',
+		'releaseDate'=>'2017-09-21',
+		'downloadLink'=>'https://github.com/dignajar/bludit/archive/2.0-beta4.zip',
 		'downloadMirrorLink'=>'',
-		'changelogLink'=>'https://github.com/dignajar/bludit/releases/tag/2.0-beta2',
-		'github'=>'https://github.com/dignajar/bludit/releases/tag/2.0-beta2'
+		'changelogLink'=>'https://github.com/dignajar/bludit/releases/tag/2.0-beta4',
+		'github'=>'https://github.com/dignajar/bludit/releases/tag/2.0-beta4'
 	),
 	'nigth'=>array(
 		'version'=>'',
