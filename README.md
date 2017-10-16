@@ -1,2 +1,4 @@
 # Version
-Contains the latest version of Bludit
+Latest version of Bludit in JSON format.
+
+https://version.bludit.com

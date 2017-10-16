@@ -1,26 +1,17 @@
 <?php
 $version = array(
 	'stable'=>array(
-		'version'=>'1.6.2',
-		'codeName'=>'',
-		'build'=>'20170504',
-		'releaseDate'=>'2017-05-04',
-		'downloadLink'=>'https://s3.amazonaws.com/bludit-s3/bludit-builds/bludit-v1.6.2.zip',
+		'version'=>'2.0',
+		'codeName'=>'Morty',
+		'build'=>'20171016',
+		'releaseDate'=>'2017-10-16',
+		'downloadLink'=>'https://df6m0u2ovo2fu.cloudfront.net/builds/bludit-v2.0.zip',
 		'downloadMirrorLink'=>'',
-		'changelogLink'=>'https://github.com/dignajar/bludit/releases/tag/1.6.2',
-		'github'=>'https://github.com/dignajar/bludit/releases/tag/1.6.2'
+		'changelogLink'=>'https://github.com/bludit/bludit/releases/tag/2.0',
+		'github'=>'https://github.com/bludit/bludit/releases/tag/2.0',
+		'blog'=>'https://blog.bludit.com/bludit-v2'
 	),
 	'beta'=>array(
-		'version'=>'2.0',
-		'codeName'=>'',
-		'build'=>'20171004',
-		'releaseDate'=>'2017-10-04',
-		'downloadLink'=>'https://github.com/dignajar/bludit/archive/2.0-beta7.zip',
-		'downloadMirrorLink'=>'',
-		'changelogLink'=>'https://github.com/dignajar/bludit/releases/tag/2.0-beta7',
-		'github'=>'https://github.com/dignajar/bludit/releases/tag/2.0-beta7'
-	),
-	'nigth'=>array(
 		'version'=>'',
 		'codeName'=>'',
 		'build'=>'',
@@ -28,7 +19,19 @@ $version = array(
 		'downloadLink'=>'',
 		'downloadMirrorLink'=>'',
 		'changelogLink'=>'',
-		'github'=>''
+		'github'=>'',
+		'blog'=>''
+	),
+	'night'=>array(
+		'version'=>'',
+		'codeName'=>'',
+		'build'=>'',
+		'releaseDate'=>'',
+		'downloadLink'=>'',
+		'downloadMirrorLink'=>'',
+		'changelogLink'=>'',
+		'github'=>'',
+		'blog'=>''
 	)
 );
 if( !defined('BLUDIT')) {
