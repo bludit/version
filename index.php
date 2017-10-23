@@ -1,15 +1,15 @@
 <?php
 $version = array(
 	'stable'=>array(
-		'version'=>'2.0',
+		'version'=>'2.0.1',
 		'codeName'=>'Morty',
-		'build'=>'20171016',
-		'releaseDate'=>'2017-10-16',
-		'downloadLink'=>'https://df6m0u2ovo2fu.cloudfront.net/builds/bludit-v2.0.zip',
+		'build'=>'20171023',
+		'releaseDate'=>'2017-10-23',
+		'downloadLink'=>'https://df6m0u2ovo2fu.cloudfront.net/builds/bludit-v2.0.1.zip',
 		'downloadMirrorLink'=>'',
-		'changelogLink'=>'https://github.com/bludit/bludit/releases/tag/2.0',
-		'github'=>'https://github.com/bludit/bludit/releases/tag/2.0',
-		'blog'=>'https://blog.bludit.com/bludit-v2'
+		'changelogLink'=>'https://github.com/bludit/bludit/releases/tag/2.0.1',
+		'github'=>'https://github.com/bludit/bludit/releases/tag/2.0.1',
+		'blog'=>'https://blog.bludit.com/bludit-2-0-1'
 	),
 	'beta'=>array(
 		'version'=>'',
