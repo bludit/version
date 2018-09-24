@@ -22,7 +22,7 @@ $version = array(
 		'github'=>'',
 		'blog'=>''
 	),
-	'nightly'=>array(
+	'alpha'=>array(
 		'version'=>'',
 		'codeName'=>'',
 		'build'=>'',
