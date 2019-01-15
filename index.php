@@ -1,15 +1,15 @@
 <?php
 $version = array(
 	'stable'=>array(
-		'version'=>'3.5.0',
-		'codeName'=>'IPA',
-		'build'=>'201811201',
-		'releaseDate'=>'2018-12-01',
-		'downloadLink'=>'https://bludit.s3.nl-ams.scw.cloud/bludit-3-5-0.zip',
+		'version'=>'3.6.0',
+		'codeName'=>'Pilsner',
+		'build'=>'20190115',
+		'releaseDate'=>'2019-01-15',
+		'downloadLink'=>'https://www.bludit.com/releases/bludit-3-6-0.zip',
 		'downloadMirrorLink'=>'',
-		'changelogLink'=>'https://github.com/bludit/bludit/releases/tag/3.5.0',
-		'github'=>'https://github.com/bludit/bludit/releases/tag/3.5.0',
-		'blog'=>'https://blog.bludit.com/bludit-3-5-0'
+		'changelogLink'=>'https://github.com/bludit/bludit/releases/tag/3.6.0',
+		'github'=>'https://github.com/bludit/bludit/releases/tag/3.6.0',
+		'blog'=>'https://blog.bludit.com/bludit-3-6-0'
 	),
 	'beta'=>array(
 		'version'=>'',
