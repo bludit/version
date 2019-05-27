@@ -1,15 +1,15 @@
 <?php
 $version = array(
 	'stable'=>array(
-		'version'=>'3.8.1',
-		'codeName'=>'APA',
-		'build'=>'20190228',
-		'releaseDate'=>'2019-02-28',
-		'downloadLink'=>'https://www.bludit.com/releases/bludit-3-8-1.zip',
+		'version'=>'3.9.0',
+		'codeName'=>'Porter',
+		'build'=>'20190527',
+		'releaseDate'=>'2019-05-27',
+		'downloadLink'=>'https://www.bludit.com/releases/bludit-3-9-0.zip',
 		'downloadMirrorLink'=>'',
-		'changelogLink'=>'https://github.com/bludit/bludit/releases/tag/3.8.1',
-		'github'=>'https://github.com/bludit/bludit/releases/tag/3.8.1',
-		'blog'=>'https://blog.bludit.com/bludit-3-8-1'
+		'changelogLink'=>'https://github.com/bludit/bludit/releases/tag/3.9.0',
+		'github'=>'https://github.com/bludit/bludit/releases/tag/3.9.0',
+		'blog'=>'https://blog.bludit.com/bludit-3-9-0'
 	),
 	'beta'=>array(
 		'version'=>'',
