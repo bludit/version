@@ -47,3 +47,17 @@ output
   }
 }
 ```
+
+## Packages
+
+```
+$ curl --silent https://version.bludit.com/themes.json | jq
+$ curl --silent https://version.bludit.com/plugins.json | jq
+```
+
+Cron Job
+
+```
+# Hourly
+0 * * * * /path/to/php /path/to/buildPackagesManifest.php
+```
