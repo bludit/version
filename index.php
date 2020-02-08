@@ -1,15 +1,15 @@
 <?php
 $version = array(
 	'stable'=>array(
-		'version'=>'3.10.0',
-		'codeName'=>'Mateo',
-		'build'=>'20191019',
-		'releaseDate'=>'2019-10-19',
-		'downloadLink'=>'https://www.bludit.com/releases/bludit-3-10-0.zip',
+		'version'=>'3.11.0',
+		'codeName'=>'Pizza time',
+		'build'=>'20200208',
+		'releaseDate'=>'2020-02-08',
+		'downloadLink'=>'https://www.bludit.com/releases/bludit-3-11-0.zip',
 		'downloadMirrorLink'=>'',
-		'changelogLink'=>'https://github.com/bludit/bludit/releases/tag/3.10.0a',
-		'github'=>'https://github.com/bludit/bludit/releases/tag/3.10.0a',
-		'blog'=>'https://blog.bludit.com/bludit-3-10-0'
+		'changelogLink'=>'https://github.com/bludit/bludit/releases/tag/3.11.0a',
+		'github'=>'https://github.com/bludit/bludit/releases/tag/3.11.0a',
+		'blog'=>'https://blog.bludit.com/bludit-3-11-0'
 	),
 	'beta'=>array(
 		'version'=>'',
