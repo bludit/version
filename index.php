@@ -1,15 +1,15 @@
 <?php
 $version = array(
 	'stable'=>array(
-		'version'=>'3.13.0',
+		'version'=>'3.13.1',
 		'codeName'=>'',
-		'build'=>'20200713',
-		'releaseDate'=>'2020-07-13',
-		'downloadLink'=>'https://www.bludit.com/releases/bludit-3-13-0.zip',
+		'build'=>'20200728',
+		'releaseDate'=>'2020-07-28',
+		'downloadLink'=>'https://www.bludit.com/releases/bludit-3-13-1.zip',
 		'downloadMirrorLink'=>'',
-		'changelogLink'=>'https://github.com/bludit/bludit/releases/tag/3.13.0',
-		'github'=>'https://github.com/bludit/bludit/releases/tag/3.13.0',
-		'blog'=>'https://blog.bludit.com/bludit-3-13-0'
+		'changelogLink'=>'https://github.com/bludit/bludit/releases/tag/3.13.1',
+		'github'=>'https://github.com/bludit/bludit/releases/tag/3.13.1',
+		'blog'=>'https://blog.bludit.com/bludit-3-13-1'
 	),
 	'beta'=>array(
 		'version'=>'',
