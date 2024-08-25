@@ -4,12 +4,12 @@ $version = array(
 		'version'=>'3.16.1',
 		'codeName'=>'',
 		'build'=>'20240806',
-		'releaseDate'=>'2024-08-06',
-		'downloadLink'=>'https://www.bludit.com/releases/bludit-3-16-1.zip',
+		'releaseDate'=>'2024-08-23',
+		'downloadLink'=>'https://www.bludit.com/releases/bludit-3-16-2.zip',
 		'downloadMirrorLink'=>'',
-		'changelogLink'=>'https://github.com/bludit/bludit/releases/tag/3.16.1',
-		'github'=>'https://github.com/bludit/bludit/releases/tag/3.16.1',
-		'blog'=>'https://blog.bludit.com/bludit-3-16-1'
+		'changelogLink'=>'https://github.com/bludit/bludit/releases/tag/3.16.2',
+		'github'=>'https://github.com/bludit/bludit/releases/tag/3.16.2',
+		'blog'=>'https://blog.bludit.com/bludit-3-16-2'
 	),
 	'beta'=>array(
 		'version'=>'',
