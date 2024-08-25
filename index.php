@@ -1,7 +1,7 @@
 <?php
 $version = array(
 	'stable'=>array(
-		'version'=>'3.16.1',
+		'version'=>'3.16.2',
 		'codeName'=>'',
 		'build'=>'20240806',
 		'releaseDate'=>'2024-08-23',
